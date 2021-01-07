@@ -2,6 +2,6 @@
 
 int main() {
     printf("Goodbye World!\n");
-    printf("hihihihiasdasdasdasdasdihihi");
+    printf("real");
     return 0;
 }
